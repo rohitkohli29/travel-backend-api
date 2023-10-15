@@ -20,10 +20,13 @@ yarn-debug.log*
 yarn-error.log*
 
 # Ignore IDE and editor-specific files and directories
-.vscode/
 .idea/
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
 *.sw?
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
